@@ -74,16 +74,17 @@ a:hover{
 
 .img-box{
     flex: 1;
-    height: 50%;
-    width: 50%;
+    height: 100%;
+    width: 80%;
 
 }
 .img {
     flex:1;
-    height: 50%;
-    width: 50%;
-        margin-left:20%;
-        border-radius: 10px;
+    height: 100%;
+    width: 70%;
+    margin-left:10%;
+    margin-right: 50PX;
+    border-radius: 10px;
 }
 
 .box {
@@ -218,6 +219,7 @@ margin:20px;
 .project-heading{
     font-size: 40px;
     margin-bottom: 30px;
+    text-align: center;
 }
 
 .project-card{
